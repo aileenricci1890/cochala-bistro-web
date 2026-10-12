@@ -13,7 +13,7 @@ import {
   Promotions,
   SiteFooter,
   Toast,
-} from './components'
+} from './components/index.js'
 import { CartDrawer, CartFab, ProductModal } from './order-components'
 import {
   categories,

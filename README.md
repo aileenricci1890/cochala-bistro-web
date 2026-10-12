@@ -23,4 +23,4 @@ No hay un script de pruebas configurado.
 
 ## Despliegue
 
-El workflow de GitHub Actions publica automáticamente en GitHub Pages al subir cambios a `master`. El sitio se sirve desde `/cochala-bistro/`; el workflow crea `404.html` para que Pages cargue la SPA en URLs internas directas. Para probar localmente, ejecuta `npm run build` y `npm run preview`.
+El workflow de GitHub Actions publica automáticamente en GitHub Pages al subir cambios a `master`. El sitio se sirve desde `/cochala-bistro-web/`; el workflow crea `404.html` para que Pages cargue la SPA en URLs internas directas. Para probar localmente, ejecuta `npm run build` y `npm run preview`.

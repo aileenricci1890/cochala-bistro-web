@@ -1,4 +1,4 @@
-import { ImageWithFallback } from './components'
+import { ImageWithFallback } from './components/index.js'
 
 function Icon({ children }) {
   return <span className="material-symbols-outlined" aria-hidden="true">{children}</span>
